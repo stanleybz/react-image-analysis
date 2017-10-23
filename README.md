@@ -17,4 +17,4 @@ Main source in ./src/Component/Home/index.js
 ## How to get azure API key
 
 > Click `Try Computer Vision API`
-https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
+> https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
