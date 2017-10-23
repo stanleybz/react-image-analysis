@@ -1,7 +1,9 @@
 # react-image-analysis
 
+> #Don't publish 
 > A demo react application using video camara with azure computer vision
-> Please change you VISION_API key before start
+> Please change you VISION_API key before start, remember don't publish your app online
+
 
 ## How to use
 
