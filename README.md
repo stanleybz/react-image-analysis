@@ -1,6 +1,7 @@
 # react-image-analysis
 
 > A demo react application using video camara with azure computer vision
+> Please change you VISION_API key before start
 
 ## How to use
 
@@ -13,4 +14,7 @@ npm start
 
 Main source in ./src/Component/Home/index.js
 
-Change you VISION_API key before start
+## How to get azure API key
+ 
+https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
+Click `Try Computer Vision API`
