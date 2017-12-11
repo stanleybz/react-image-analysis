@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
-const FACE_API = '46349259edb8401f9c3fdd698e50791c';
-const VISION_API = 'ddf922dd530644228b96466ef14c1e5e';
+const FACE_API = '__FACE_API_KEY__';
+const VISION_API = '__VISION_API_KEY__';
 
 // Index component
 class Home extends Component {
